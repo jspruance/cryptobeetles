@@ -14,7 +14,7 @@ async function main() {
   
   // CID from Pinata for json metadata file
   try {
-    const newItemId = await cryptoBeetles.mint("https://ipfs.io/ipfs/QmVqNB7W23HsfzNktYq2ZxUSq6SNR93Cew4r29FTGAEoQT")
+    const newItemId = await cryptoBeetles.mint("")
     console.log(`NFT succesfully minted! :::: ${newItemId}`)
   } catch(err) {
     console.log(`minting error: ${err.message}`)
