@@ -1,8 +1,0 @@
-CryptoBeetles contract - Ethereum mainnet
-
-0xFB2Ce8f578D11A4d6cBaE57151BB0cc2E32a3562
-
-
-EtherScan:
-
-https://etherscan.io/address/0xFB2Ce8f578D11A4d6cBaE57151BB0cc2E32a3562
